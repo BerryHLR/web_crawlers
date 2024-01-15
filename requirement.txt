@@ -1,0 +1,26 @@
+Installation
+
+pip install requests
+pip install re
+pip install lxml
+pip install json
+pip install scrapy
+#OR
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple scrapy 
+
+
+Some problems may appear when installing scrapy. Here is an alternative way.
+
+1. pip install wheel
+
+2. Install twisted here:  https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
+
+3. pip install Twisted‑21.7.0‑py3‑none‑any.whl
+
+4. pip install pywin32
+
+5. pip install scrapy
+
+
+In conclusion, if there's version number after you type 'scrapy version', you are succeed
+
