@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 # 🚌**Usage**
 ## **Requests**
-### **01 Working principle **
+### **01 Working principle**
 Coding process of requests module:
 - Specify url
     - UA camouflage
